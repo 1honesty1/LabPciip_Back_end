@@ -1,0 +1,11 @@
+Dispatcher:
+email: alexgudkov2000@gmail.com
+password: 12345
+
+executer:
+email: adamcortese2019@gmail.com
+12345
+
+executor:
+email: vadim@gmail.com
+password: 12345
